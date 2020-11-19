@@ -11,6 +11,6 @@ public class GreetingResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String hello() {
-        return "Have a Great Day";
+        return "Have a Wonderful Day";
     }
 }
